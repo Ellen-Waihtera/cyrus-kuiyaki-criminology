@@ -114,7 +114,7 @@
         
         .hero {
             height: 100vh;
-            background: url('https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80') no-repeat center center/cover;
+            background: url('denix.jpg') no-repeat center center/cover;
             display: flex;
             align-items: center;
             position: relative;
@@ -542,7 +542,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: url('https://images.unsplash.com/photo-1589829545856-d10d557cf95f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80') no-repeat center center/cover;
+            background: url('denni.jpg') no-repeat center center/cover;
             opacity: 0.1;
             z-index: 0;
         }
@@ -741,7 +741,7 @@
             </div>
             <div class="about-content">
                 <div class="about-img">
-                    <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" alt="Cyrus Kuiyaki">
+                    <img src="denni.jpg" alt="Cyrus Kuiyaki">
                 </div>
                 <div class="about-text">
                     <h3>Cyrus Kuiyaki</h3>
